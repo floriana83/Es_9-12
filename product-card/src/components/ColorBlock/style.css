@@ -1,0 +1,18 @@
+
+.b, .v, .y, .g{
+    
+    color: transparent;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 5px;
+    
+}
+
+.b {background-color: black;}
+.v {background-color: rgb(46, 25, 116);}
+.y {background-color: rgb(211, 211, 14);}
+.g {background-color: rgb(72, 100, 72);}
+

@@ -1,0 +1,19 @@
+
+
+
+.btn-block button{
+    width: 150px;
+    height: 30px;
+    
+  font-size: small;
+    
+    margin: 20px;
+    align-items: center;
+    color:white;
+    outline: none;
+    border: none;
+    
+    background: black;
+    
+    border-radius: 7px;
+}
